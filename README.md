@@ -95,8 +95,4 @@ pip install pandas numpy matplotlib seaborn statsmodels
 - `Walmart_project.ipynb` — end-to-end analysis and forecasting notebook.
 - `README.md` — project documentation.
 
----
-If you want, I can also provide:
-- a **resume-ready project description**,
-- a **short LinkedIn project summary**, and
-- an **interview explanation script** for this project.
+
